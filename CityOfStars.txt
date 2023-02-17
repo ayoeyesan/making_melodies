@@ -1,0 +1,45 @@
+City of Stars
+Justin Hurwitz
+0.25 G 3 NATURAL true
+0.25 B 4 flat false
+0.25 D 4 NATURAL false
+0.5 F 4 NATURAL false
+0.25 D 4 NATURAL false
+0.25 B 4 flat false
+0.25 G 3 NATURAL true
+0.25 G 3 NATURAL true
+0.25 B 4 flat false
+0.25 D 4 NATURAL false
+0.5 F 4 NATURAL false
+0.25 D 4 NATURAL false
+0.25 B 4 flat false
+0.25 G 3 NATURAL true
+0.25 G 2 NATURAL false
+0.25 A 3 NATURAL false
+0.25 B 3 flat false
+1.25 D 3 NATURAL false
+0.5 R 3 NATURAL false
+0.25 E 3 NATURAL false
+0.25 F 3 NATURAL false
+0.25 D 3 NATURAL false
+0.25 E 3 NATURAL false
+0.25 C 3 NATURAL false
+0.375 D 3 NATURAL false
+0.875 G 2 NATURAL false
+0.5 R 3 NATURAL false
+0.25 G 2 NATURAL false
+0.25 A 3 NATURAL false
+0.25 B 3 flat false
+1.25 D 3 NATURAL false
+0.5 R 3 NATURAL false
+0.25 E 3 NATURAL false
+0.25 F 3 NATURAL false
+0.25 D 3 NATURAL false
+0.25 E 3 NATURAL false
+0.25 C 3 NATURAL false
+0.525 D 3 NATURAL false
+0.85 G 2 NATURAL false
+
+
+
+
